@@ -1,4 +1,11 @@
-body{
-    display: flex;
-    flex-direction: column;
+#cargando{
+  width: 10px;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+}
+.bandera{
+  width: 50px;
+
+  
 }
